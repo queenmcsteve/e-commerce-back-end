@@ -46,7 +46,7 @@ Install dependencies using `npm i`, connect to MySQL and run db/schema.sql to cr
 
 # Usage
 
-See the demo video to see database queries using insomnia.
+See the demo video to see database queries using Insomnia.
 
 # Demonstration
 
