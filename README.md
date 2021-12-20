@@ -4,7 +4,7 @@
 
 ## Description:
 
-This project is the backend for an e-commerce site, using Express.js and Sequelize to interact with a MySQL database.
+This project is the backend for an e-commerce site, using Express.js and Sequelize to interact with a MySQL database. This project was completed as part of the ESMT coding bootcamp.
 
 ## User Story
 
