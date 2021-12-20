@@ -46,7 +46,7 @@ Install dependencies (mysql2, express, sequelize, dotenv) using `npm i`, connect
 
 # Usage
 
-See the demo video to see database queries using Insomnia.
+See the demo video to see database queries using Insomnia.123
 
 # Demonstration
 
