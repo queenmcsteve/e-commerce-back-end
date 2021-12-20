@@ -42,7 +42,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Installation Instructions
 
-Install dependencies using `npm i`, connect to MySQL and run db/schema.sql to create database. Then from terminal, run `node seeds/index.js` to seed data. Finally, run `node server.js` to start the server.
+Install dependencies (mysql2, express, sequelize, dotenv) using `npm i`, connect to MySQL and run db/schema.sql to create database. Then from terminal, run `node seeds/index.js` or `npm run seed` to seed data. Finally, run `node server.js` or `npm start` to start the server.
 
 # Usage
 
