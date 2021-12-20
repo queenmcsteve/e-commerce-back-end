@@ -49,7 +49,7 @@ See the demo video to see database queries using Insomnia.
 
 # Demonstration
 
-As this is a command line program, there are no screenshots of the program itself. Please watch the following demo video to see the program in action.
+As this is a backend program, there are no screenshots. Once the server is running, the database can be queried, for example, using Insomnia. Please watch the following video to see the server set up process, and then example queries being sent via Insomnia.
 
 [Demonstration Video](https://watch.screencastify.com/v/LxSVKuURzqtTbWjHcoVO)
 
