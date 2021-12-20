@@ -36,7 +36,6 @@ THEN I am able to successfully create, update, and delete data in my database
 - [Usage](#usage)
 - [Demonstration](#demonstration)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Contact](#contact)
 - [License](#license)
 
@@ -57,10 +56,6 @@ As this is a command line program, there are no screenshots of the program itsel
 # Contributing
 
 Feel free to clone or fork.
-
-# Tests
-
-There are no tests for this project.
 
 # Contact
 
